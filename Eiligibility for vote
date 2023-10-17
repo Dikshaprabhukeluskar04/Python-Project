@@ -1,0 +1,6 @@
+n=int(input("enter an age"))
+if(n>18):
+    print("Eigible for vote")
+else:
+     print("Eigible for vote")
+print("Good bye...")
